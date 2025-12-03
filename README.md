@@ -1,13 +1,17 @@
 
 # 🖥️ Voice Control Assistant (Python)
+<p align="center">
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Biting%20Lip.png" width="100" height="100" />
+</p>
 
-نظام أوامر صوتية ذكي يتحكم في جهازك بالكامل بالعربي وبدون إنترنت،  
-بيعتمد على **Vosk** للتعرف على الصوت وتشغيل الأوامر مباشرة عبر **Keyboard Automation**.
+
+- نظام أوامر صوتية ذكي يتحكم في جهازك بالكامل بالعربي وبدون إنترنت،
+- بيعتمد على **Vosk** للتعرف على الصوت وتشغيل الأوامر مباشرة عبر **Keyboard Automation**.
 
 ---
 
-## ⭐ مميزات المشروع  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark%20Button.webp" width="55" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark%20Button.webp" width="55" /> ⭐ مميزات المشروع  
+
 
 - التعرف على الصوت Offline  
 - أوامر عربية بالكامل  
@@ -20,9 +24,9 @@
 ---
 
 ## 📦 المكتبات المطلوبة  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Package.webp" width="60" />
 
 > **ملاحظة:** نموذج Vosk بتحطه في فولدر `model` جنب المشروع.
+- لتحميل اللغتين العربية والانجليزية : [من هنا](https://alphacephei.com/vosk/models)
 
 ### 🎤 الصوت  
 - vosk  
@@ -42,7 +46,6 @@
 ---
 
 ## 🚀 تثبيت كل المكتبات في أمر واحد  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Rocket.webp" width="70" />
 
 ```bash
 pip install vosk sounddevice pyaudio keyboard pynput gTTS numpy
@@ -123,15 +126,16 @@ python main.py
 
 ---
 
-## 📞 للتواصل
+##  *Designed & Developed by ***a r s i n e k*** © 2025*
+[![a r s i n e k ](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201141345223) 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Telephone.webp" width="55" />
+* **Email:** [ayrn194](mailto:ayrn194@gmail.com)
+* **GitHub:** [kl0l69](https://github.com/kl0l69)
+* **Facebook:** [nq703](https://facebook.com/nq703)
+* **Instagram:** [kl0l69](https://instagram.com/kl0l69)
+* **Telegram:** [nq703](https://t.me/nq703)
 
-* **Phone / WhatsApp:** +201141345223
-* **Email:** [ayrn194@gmail.com](mailto:ayrn194@gmail.com)
-* **GitHub:** [https://github.com/kl0l69](https://github.com/kl0l69)
-* **Facebook:** [https://facebook.com/nq703](https://facebook.com/nq703)
-* **Instagram:** [https://instagram.com/kl0l69](https://instagram.com/kl0l69)
-* **Telegram:** [https://t.me/nq703](https://t.me/nq703)
-
-==
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b5adb0b9-2e52-4707-be4d-00c4fac304a6" 
+       alt="Intro Animation" width="800"/>
+</div>
