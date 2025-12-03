@@ -118,11 +118,7 @@ python main.py
 
 المشروع مفتوح المصدر للاستخدام والتطوير.
 
----
 
-## © 2025
-
-**a r s i n e k**
 
 ---
 
@@ -139,3 +135,4 @@ python main.py
   <img src="https://github.com/user-attachments/assets/b5adb0b9-2e52-4707-be4d-00c4fac304a6" 
        alt="Intro Animation" width="800"/>
 </div>
+
